@@ -1,0 +1,269 @@
+body{
+    background-color: #F6F6FA;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    background-color: #fff;
+    padding: 10px;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+/*  My content */
+
+.content{
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.profession{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin: 0 0 18px 0;
+}
+
+.name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin: 0 0 28px 0;
+}
+
+.description{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 525px;
+}
+
+.about-me-container{
+    margin-bottom: 64px;
+}
+
+.content-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin: 0 0 0 8px 0;
+}
+
+/* My project */
+
+.project-container{
+    margin-bottom: 48px;
+}
+
+.project{
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
+.project-item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.project-itom-descript{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.project-item-link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #005FFF;
+}
+
+/* Work Experience */
+.work-experiece-container{
+    margin-bottom: 44px;
+    width: 509px;
+}
+
+.work-experiece-place{
+    margin-bottom: 16px;
+}
+
+.work-experiece-position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin: 0;
+}
+
+.work-experiecep-company{
+    color: #6D9BF5;;
+}
+
+.work-period{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.work-dutes-list{
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
+.work-dutes{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+/* Education */
+.education-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.education-place{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #6D9BF5;
+    
+}
+
+.education-professional{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    
+}
+
+.education-period{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+/* SideBar */
+
+.sidebar{
+    background-color: #E0EBFE;
+}
+
+.my_photo{
+    margin-top: 40px;
+    
+}
+
+.contacts{
+    margin-top: 51px;
+    margin-left: 40px;
+}
+
+.tech_skills{
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.soft_skills{
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.sidebar-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.contacts span{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+    
+}
+
+.contacts p{
+    margin: 0px;
+}
+
+
+
+.tel{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+    margin-left: 12px;
+}
+
+.email{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #2979FF;
+    margin-left: 12px;
+
+}
+
+.sidebar li{
+    color: #6D9BF5;
+}
+
+.text-list {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A
+}
+
+.sidebar h3{
+    margin: 0px;
+}
+
+.sidebar ul {
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
